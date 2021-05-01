@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAqP4qAw3B/3xlblEXjzbj5xYFWeJC2Bcm2VVbJRws8/GNGh7uvTcDXUf7+mYgRmbRNXDi6hhK1c3k19rdQX5A==",
+  "success": true,
+  "projectFilePath": "/home/rromario/cshap/Domínios Ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "/home/rromario/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/rromario/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
