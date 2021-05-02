@@ -1,17 +1,18 @@
 using System;
+using PaymentContext.Domain.ValueObjects;
 
 namespace PaymentContext.Domain.Entities
 {
     public class CreditCardPayment : Payment
     {
-        public CreditCardPayment(string cardHoldeName, string cardNumber, string lastTransactionNumber,            DateTime paidDate,
+        public CreditCardPayment(string cardHoldeName, string cardNumber, string lastTransactionNumber, DateTime paidDate,
             DateTime experiteDate,
             decimal total,
             decimal totalPaid,
             string payer,
-            string document,
-            string address,
-            string email) : base(
+            Document document,
+            Address address,
+            Email email) : base(
                 paidDate, experiteDate, total, totalPaid, payer, document, address, email)
         {
             CardHoldeName = cardHoldeName;
