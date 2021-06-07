@@ -96,3 +96,4 @@
 /home/rromario/cshap/Domínios Ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp3.1/PaymentContext.Shared.dll
 /home/rromario/cshap/Domínios Ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp3.1/PaymentContext.Domain.pdb
 /home/rromario/cshap/Domínios Ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp3.1/PaymentContext.Shared.pdb
+/home/rromario/cshap/Domínios Ricos/PaymentContext/PaymentContext.Tests/bin/Debug/netcoreapp3.1/Flunt.dll
