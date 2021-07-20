@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JF7E8QgysqezHR5qYNRj9VhpVFedZG+PCFZSFq0JjX/VzQLsDLzH7/HaOLy4srjfqs7YtstvmfOOrrXnPVGa5Q==",
+  "dgSpecHash": "yhk38T5IKynLSV94LvNypbhCA12+10T8dnDxbintcDz6BPckh7rZpC6sOID9HFAaG8sroLE4DRgqJ2w5IhMu5g==",
   "success": true,
   "projectFilePath": "/home/rromario/cshap/Domínios Ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
